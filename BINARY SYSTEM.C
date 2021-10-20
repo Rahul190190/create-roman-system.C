@@ -1,6 +1,6 @@
 #include <stdio.h>
-//AUTHOR:KESARAPU SURYA VENKAT
-//Scholar Id:2012138
+//AUTHOR:GOLLA RAHUL
+//Scholar Id:2012132
 int binaryproduct(int bin1, int bin2)
 {
     int i = 0, remainder = 0, sum[20];
